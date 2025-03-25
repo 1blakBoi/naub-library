@@ -1,0 +1,27 @@
+.c-item {
+    height: 500px;
+}
+
+.c-image {
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.3);
+}
+
+.c-h1 {
+
+    margin-top: 80px;
+}
+
+
+.c-p1 {
+
+     color: rgba(179, 146, 3, 0.993);
+}
+
+.vc-image{
+    object-fit: cover;
+    filter: brightness(0.5);
+    width: 400px;
+    height: 400px;
+}
