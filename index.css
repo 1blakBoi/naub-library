@@ -1,3 +1,8 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 .c-item {
     height: 500px;
 }
@@ -27,4 +32,57 @@
     filter: brightness(0.4);
     width: 400px;
     height: 400px;
+}
+
+.clockContainer {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    /*margin-top: 100px;*/
+}
+
+#clock {
+    font-size: 2em;
+    color: #7a7979;
+}
+
+.mission-vision, .c-p {
+
+    background-color:rgb(1, 78, 36);
+    color: whitesmoke;
+    
+}
+
+.mission-vision:hover {
+    transform: scale(1.1) rotate(360deg);
+    margin: 50px auto;
+}
+
+.p1 {
+    color: rgb(235, 220, 6)
+}
+
+.brand-text {
+    color: white
+}
+
+.navbar {
+    background-color: rgb(83, 2, 2);
+}
+
+.c-footer {
+    background-color: rgb(83, 2, 2);
+}
+
+/*.h5 {
+
+    background-color: white;
+    color: rgb(235, 7, 7)
+/*}*/
+
+.card-img-top {
+
+    height: 200px;
+    object-fit: cover;
+    filter: brightness(0.5);
+
 }
